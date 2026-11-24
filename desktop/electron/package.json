@@ -1,0 +1,17 @@
+{
+  "name": "navi-whisper-desktop",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Thin Electron desktop wrapper for Navi-Whisper",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && electron .",
+    "dev": "npm run build && electron ."
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "electron": "^33.2.1",
+    "typescript": "^5.6.3"
+  }
+}

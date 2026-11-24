@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+
+# Environment & local secrets
+.env
+backend/.env
+
+# Session exports & models
+sessions/
+models/
+
+# Node / Frontend / Electron
+node_modules/
+frontend/dist/
+desktop/electron/dist/
+desktop/electron/release/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

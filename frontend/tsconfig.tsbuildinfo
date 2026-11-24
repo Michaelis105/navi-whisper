@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/headerbar.tsx","./src/components/topiccard.tsx","./src/components/topicsidebar.tsx","./src/components/transcriptfeed.tsx","./src/hooks/usedesktopbridge.ts","./src/hooks/usenavisocket.ts","./src/types/events.ts"],"version":"5.9.3"}
